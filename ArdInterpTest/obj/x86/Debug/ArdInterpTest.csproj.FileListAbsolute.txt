@@ -1,0 +1,6 @@
+/Users/kylebabiec/Projects/ArdInterpTest/ArdInterpTest/bin/Debug/ArdInterpTest.exe
+/Users/kylebabiec/Projects/ArdInterpTest/ArdInterpTest/bin/Debug/ArdInterpTest.pdb
+/Users/kylebabiec/Projects/ArdInterpTest/ArdInterpTest/obj/x86/Debug/ArdInterpTest.csprojAssemblyReference.cache
+/Users/kylebabiec/Projects/ArdInterpTest/ArdInterpTest/obj/x86/Debug/ArdInterpTest.csproj.CoreCompileInputs.cache
+/Users/kylebabiec/Projects/ArdInterpTest/ArdInterpTest/obj/x86/Debug/ArdInterpTest.exe
+/Users/kylebabiec/Projects/ArdInterpTest/ArdInterpTest/obj/x86/Debug/ArdInterpTest.pdb
